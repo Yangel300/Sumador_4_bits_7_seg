@@ -2,4 +2,4 @@
 
 El esquema general para el diseño se muestra a continuaciòn:
 
-![Esquema_general](./Pictures_1/sumador_esquema.png)
+![Esquema_general](./Pictures_1/Sumador_esquema.png)
