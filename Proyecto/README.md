@@ -6,7 +6,15 @@ El esquema general del circuito radar realizado se muestra en la siguiente figur
 
 ![Esquema_general](./Img/mo.png)
 
+Een el esquema anterior se nota que el sensor infrarrojo controla la activación de la señal en el sensor ultrasonico.
+
 En el esquema se observan los modulos "pulsoN" (donde N es un número del 1 al 7), los cuales definen el ángulo de movimiento del servomotor para que se mueva en varios grados de libertad.
 
-![Pulso4](./Img.png)
+![Pulso4](./pulso4.png)
+
+A su vez este modulo compara una señal con una referencia diseñada para cada caso, por ejemplo para el "pulso4" se tiene el siguiente esquema:
+
+![mundo4](./mundo4.png)
+
+AL realizar simulaciones se observan lo mostrado en la siguiente figura:
 
