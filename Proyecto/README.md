@@ -4,5 +4,9 @@ En este repositorio se explicará el método utilizado para la implementación d
 
 El esquema general del circuito radar realizado se muestra en la siguiente figura:
 
-![Esquema_general](./Img/Nivel.png)
+![Esquema_general](./Img/mo.png)
+
+En el esquema se observan los modulos "pulsoN" (donde N es un número del 1 al 7), los cuales definen el ángulo de movimiento del servomotor para que se mueva en varios grados de libertad.
+
+![Pulso4](./Img.png)
 
