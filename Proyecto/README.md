@@ -35,7 +35,7 @@ AL realizar simulaciones se observan lo mostrado en la siguiente figura:
 
 En el siguiente video corto se observa la implementación del proyecto y un analisis de los modulos principales que conforman el mismo.
 
-[![Video_implementación](https://img.youtube.com/vi/N9OJL0nyhSQ/0.jpg)](https://www.youtube.com "Implementación proyecto radar 28-11-2023")
+[![Video_implementación](https://img.youtube.com/vi/video.jpg)](https://www.youtube.com "Implementación proyecto radar 28-11-2023")
 
 
 
