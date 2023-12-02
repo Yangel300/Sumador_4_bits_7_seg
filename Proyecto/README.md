@@ -20,6 +20,8 @@ A su vez este modulo compara una señal con una referencia diseñada para cada c
 
 Para observar cualquier modulo de interes se utiliza el siguiente código en la carpeta [CodigoP.zip](./CodigoP.zip) descargada (será necesario tener los modulos especificados en este repositorio: [Repositorio](https://github.com/johnnycubides/digital-electronic-1-101/tree/main)
 
+
+
 ```bash
 make rtl TOP=moodulo_de_interes
 ```
@@ -30,6 +32,19 @@ Para realizar simulaciones en gtkwave se utiliza el siguiente comando:
 ```bash
 make sim
 ```
+
+Para la implementacion en FPGA Cyclone IV se utiliza los comandos:
+
+```bash
+make syn
+```
+
+```bash
+make config
+```
+
+Que crean un archivo .qsf que se edita a conveniencia, en la carpeta [CodigoP](./CodigoP) se muestra un ejemplo de implementacion.
+
 AL realizar simulaciones se observan lo mostrado en la siguiente figura:
 
 ![sim](./Img/Sim.png)
@@ -37,7 +52,7 @@ AL realizar simulaciones se observan lo mostrado en la siguiente figura:
 
 En el siguiente video corto se observa la implementación del proyecto y un analisis de los modulos principales que conforman el mismo.
 
-[![Video_implementación](https://img.youtube.com/vi/nzS5TlPBRdE.jpg)](https://youtu.be/nzS5TlPBRdE)
+[![Video_implementación]](https://youtu.be/nzS5TlPBRdE)
 
 
 
