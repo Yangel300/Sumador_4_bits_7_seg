@@ -16,7 +16,9 @@ A su vez este modulo compara una señal con una referencia diseñada para cada c
 
 ![mundo4](./Img/mundo4.png)
 
-Para observar cualuier modulo de interes se utiliza el siguiente código en la carpeta [CodigoP.zip](./CodigoP.zip) descargada (será necesario tener los modulos especificados en este repositorio; [RP](https://github.com/johnnycubides/digital-electronic-1-101/tree/main))
+
+
+Para observar cualquier modulo de interes se utiliza el siguiente código en la carpeta [CodigoP.zip](./CodigoP.zip) descargada (será necesario tener los modulos especificados en este repositorio: [Repositorio](https://github.com/johnnycubides/digital-electronic-1-101/tree/main)
 
 ```bash
 make rtl TOP=moodulo_de_interes
@@ -30,12 +32,12 @@ make sim
 ```
 AL realizar simulaciones se observan lo mostrado en la siguiente figura:
 
-![sim](./Img/simulaciones.png)
+![sim](./Img/Sim.png)
 
 
 En el siguiente video corto se observa la implementación del proyecto y un analisis de los modulos principales que conforman el mismo.
 
-[![Video_implementación](https://img.youtube.com/vi/https://youtu.be/nzS5TlPBRdE.jpg)](https://youtu.be/nzS5TlPBRdE)
+[![Video_implementación](https://img.youtube.com/vi/nzS5TlPBRdE.jpg)](https://youtu.be/nzS5TlPBRdE)
 
 
 
